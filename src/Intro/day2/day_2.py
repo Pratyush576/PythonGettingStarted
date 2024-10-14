@@ -18,3 +18,7 @@ b = "Hello, World!"
 print(b[2:5])
 print(b[:5])
 print(b[-5:-2])
+
+# Escape charecter
+txt = "We are the so-called \"Vikings\" from the north."
+print(txt)
