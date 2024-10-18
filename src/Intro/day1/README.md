@@ -57,6 +57,15 @@ Why Python?
         * Snake Case
             my_variable_name = "John"
 
+# Topics Covered
+* Comments and printing
+* Variables
+* Variable Names
+* Multiple Variable Values
+* Output Variable
+* Global Variable
+
+Ref: https://www.w3schools.com/python/python_variables_exercises.asp
 
 
 
