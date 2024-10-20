@@ -1,7 +1,7 @@
 from kafka import KafkaProducer
 import time
 
-producer = KafkaProducer(bootstrap_servers='10.64.64.206:9092')
+producer = KafkaProducer(bootstrap_servers='localhost:9092')
 
 topics = ['number_producer', 'change_producer']
 
